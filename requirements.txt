@@ -1,0 +1,14 @@
+# Personal Finance Manager - Python Dependencies
+# All modules used are from the Python Standard Library.
+# No third-party packages required.
+#
+# Python version: 3.8+
+#
+# Standard Library modules used:
+#   csv        - data persistence
+#   os         - file and directory operations
+#   shutil     - file backup/copy
+#   datetime   - date handling
+#   calendar   - month names in annual report
+#   collections - defaultdict for aggregation
+#   sys        - path and exit handling
